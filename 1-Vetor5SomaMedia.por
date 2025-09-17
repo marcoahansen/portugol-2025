@@ -10,7 +10,7 @@ programa {
       soma = soma + numeros[i]
     }
     media = soma/N
-    escreva("A soma de todos os elementos é: ", soma, "\n")
-    escreva("A média dos elementos é: ", media, "\n")
+    escreva("A soma de todos os elementos é: ", soma, "!\n")
+    escreva("A média dos elementos é: ", media, "!\n")
   }
 }
